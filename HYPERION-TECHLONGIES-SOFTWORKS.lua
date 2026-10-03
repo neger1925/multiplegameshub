@@ -4,6 +4,18 @@ do
 		["Umbra"] = "Umbra-Fingerprint",
                 ["Isaeva"] = "Isaeva-Fingerprint",
                 ["Seliware"]  = "Seliware-Fingerprint",
+                ["Potassium"] = "Potassium-Fingerprint",
+                ["Wave"] = "Wave-Fingerprint",
+                ["Volt"] = "Volt-Fingerprint",
+                ["Madium"] = "Madium-Fingerprint",
+                ["Real"] = "Real-Fingerprint",
+                ["Velocity"] = "Velocity-Fingerprint",
+                ["SirHurt"] = "SirHurt-Fingerprint",
+                ["Solara"] = "Solara-Fingerprint",
+                ["Xeno"] = "Xeno-Fingerprint",
+                ["Nexomia"] = "Nexomia-Fingerprint",
+                ["Synapse Z"] = "Syn-Fingerprint",
+                ["Delta"] = "Delta-Fingerprint",
 	}
 
 	local executorName = "Unknown"

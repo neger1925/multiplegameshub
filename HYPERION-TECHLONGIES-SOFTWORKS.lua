@@ -12,10 +12,22 @@ do
                 ["Velocity"] = "Velocity-Fingerprint",
                 ["SirHurt"] = "SirHurt-Fingerprint",
                 ["Solara"] = "Solara-Fingerprint",
+		        ["ZigZag"] = "ZigZag-Fingerprint",
                 ["Xeno"] = "Xeno-Fingerprint",
                 ["Nexomia"] = "Nexomia-Fingerprint",
                 ["Synapse Z"] = "Syn-Fingerprint",
                 ["Delta"] = "Delta-Fingerprint",
+		        ["JohnnySins"] = "JohnnySinsSploit-Fingerprint",
+		        ["supQ"] = "supQ-Fingerprint",
+		        ["YuBX"] = "YuBX-Fingerprint",
+		        ["Fluxus"] = "Fluxus-Fingerprint",
+		        ["Exol"] = "Exol-Fingerprint",
+		        ["MacSploit"] = "MacSploit-Fingerprint",
+		        ["macsploitagain"] = "Macsploit-Fingerprint",
+		        ["Opiumware"]  = "Opiumware-Fingerprint",
+		        ["bunny"] = "Bunni-Fingerprint",
+		        ["Luna"] = "Luna-Fingerprint",
+		        ["Nam"] = "Nam-Fingerprint",
 	}
 
 	local executorName = "Unknown"
